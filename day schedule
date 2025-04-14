@@ -1,0 +1,21 @@
+0800 Sleep  1000-0500 
+0100 Azure  0500-0600 
+0100 Exerc  0600-0700  
+0100 Golang 0700-0800
+0800 Fin    0930-1730  
+0200 Kid    1800-2000
+0100 RedHat 2000-2100
+0030 Book   2130-2200 book
+0230 Other 
+
+### Leave days  no trip days
+
+0800 Sleep  1000-0500 
+0200 Azure  0500-0600 
+0100 Exerc  0600-0700  
+0100 Golang 0700-0800
+0100 RedHat 0830-0930
+0300 Fin    1000-1400
+0400 Kids 
+0330 Other  
+0030 Book   2130-2200 book
