@@ -1,4 +1,4 @@
-0800 Sleep  2100-0500 
+0800 Sleep  2100-0500  
 0100 Azure  0500-0600 
 0100 Exer   0600-0700  
 0030 GO   
@@ -8,6 +8,12 @@
 0200 Kid    1800-2000
 0030 Book   2130-2200 book
 0230 Other 
+
+
+
+
+
+
 
 
 ### Leave days  no trip days
@@ -23,7 +29,15 @@
 0030 Book                         #  2130-2200 book
 
 
+20-April-2025
 
-# 0400 Ansible 0700-0800
-# 0200 Azure  0500-0600 
-
+1130-1230 subscription vending code
+1230-1330 management group code 
+1330-1400 free
+1400-1500 shell script to update the values 
+1500-1530 free
+1530-1630 update policy 
+1630-1730 update single policy,depends on for role assignment 
+1730-1900 free
+1900-2000 argocd 
+2000-2200 testing
