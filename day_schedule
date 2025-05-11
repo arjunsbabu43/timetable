@@ -8,14 +8,6 @@
 0330 Other 
 
 
-0500-0600 RedHat
-0600-0700 Exercise
-0700-0800 Argo 
-0800-0830 other 
-0830-0900 office 
-0900-0930 GO 
-0930-1000 free
-1000-
 
 
 
@@ -33,4 +25,20 @@
 0100 Exercise  
 0330 Other  
 0030 GO   
-0030 Book                      
+0030 Book  
+
+
+11-May-2025 
+
+1000-1100 RedHat Ansible 
+1100-1130 purchase milk setup
+1130-1230 Fin 
+1230-1300 free 
+1300-1400 cooking , having 
+1400-1500 free office 
+1500-1600 Argocd 
+1600-1630 free 
+1630-1730 Fin 
+1730-1900 home juice having 
+1900-2000 Ansible 
+
