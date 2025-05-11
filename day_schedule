@@ -1,13 +1,21 @@
-0800 Sleep  2100-0500  
-0100 Azure  0500-0600 
-0100 Exer   0600-0700  
+0800 Sleep      
+0100 RedHat  
+0100 Exercise  
 0030 GO   
-0100 Argo
-0030 AKS
-0700 Fin    0930-1730  
-0200 Kid    1800-2000
-0030 Book   2130-2200 book
-0230 Other 
+0230 Argo
+0700 Fin    
+0030 Book  
+0330 Other 
+
+
+0500-0600 RedHat
+0600-0700 Exercise
+0700-0800 Argo 
+0800-0830 other 
+0830-0900 office 
+0900-0930 GO 
+0930-1000 free
+1000-
 
 
 
@@ -19,25 +27,10 @@
 ### Leave days  no trip days
 
 0800 Sleep   
-0500 Fin                       
-0100 Exec                          
-0100 Azure 
-0030 GO  
-0030 AKS
-0400 Kids 
+0500 Fin  
+0300 Argo helm
+0230 RedHat  
+0100 Exercise  
 0330 Other  
-0030 Book                         #  2130-2200 book
-
-
-20-April-2025
-
-1130-1230 subscription vending code
-1230-1330 management group code 
-1330-1400 free
-1400-1500 shell script to update the values 
-1500-1530 free
-1530-1630 update policy 
-1630-1730 update single policy,depends on for role assignment 
-1730-1900 free
-1900-2000 argocd 
-2000-2200 testing
+0030 GO   
+0030 Book                      
